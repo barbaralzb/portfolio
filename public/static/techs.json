@@ -1,0 +1,27 @@
+[
+    {
+        "label": "React Native",
+        "color": "rgb(128, 103, 240)",
+        "value": 100
+    },
+    {
+        "label": "React JS",
+        "color": "#E05852",
+        "value": 100
+    },
+    {
+        "label": "Node JS",
+        "color": "#1cbe59",
+        "value": 35
+    },
+    {
+        "label": "MongoDB - Compass",
+        "color": "#6f6b80",
+        "value": 25
+    },
+    {
+        "label": "Postman",
+        "color": "#f0c45c",
+        "value": 20
+    }
+]
